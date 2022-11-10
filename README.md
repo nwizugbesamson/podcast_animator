@@ -1,5 +1,5 @@
 
-
+![Tests](https://github.com/nwizugbesamson/podcast_animator/actions/workflows/tests.yaml/badge.svg)
 ### Development guide
 
 - Clone and Navigate to repository
@@ -25,4 +25,4 @@
 `pre-commit install`
 
 
-![Tests](https://github.com/nwizugbesamson/podcast_animator/actions/workflows/tests.yaml/badge.svg)
+
